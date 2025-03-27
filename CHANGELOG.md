@@ -1,3 +1,7 @@
+## 3.0.0+3
+
+- `get_thumbnail_video: ^0.7.3` used instead of `video_thumbnail: ^0.5.3` because it's not maintained anymore
+
 ## 3.0.0
 
 > **Note**
